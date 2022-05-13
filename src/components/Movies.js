@@ -1,8 +1,15 @@
 import React from 'react'
-
+import InputBox from './InputBox'
+import MoviesTable from './MoviesTable'
+import Pagenation from './Pagenation'
 function Movies() {
   return (
-    <div>Movies</div>
+      <div>
+     <InputBox></InputBox>
+     <MoviesTable></MoviesTable>
+     <Pagenation></Pagenation>
+    
+      </div>
   )
 }
 

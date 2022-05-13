@@ -2,8 +2,10 @@ import React from 'react'
 
 function Genre() {
   return (
-    <div>Genre</div>
+    <div className='mr-6' >
+genre
+    </div>
   )
 }
 
-export default Genre
+export default Genre 

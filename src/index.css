@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.appclass{
+  background-color: #00FFFF;
+  height: 100vh;
+  width: 100vw;
+
+  
+}
